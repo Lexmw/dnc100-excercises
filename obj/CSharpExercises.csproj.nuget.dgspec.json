@@ -1,29 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/workspace/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj": {}
+    "/Users/lexiuswaltar/Documents/Projects/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj": {}
   },
   "projects": {
-    "/workspace/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj": {
+    "/Users/lexiuswaltar/Documents/Projects/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspace/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj",
+        "projectUniqueName": "/Users/lexiuswaltar/Documents/Projects/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj",
         "projectName": "CSharpExercises",
-        "projectPath": "/workspace/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj",
-        "packagesPath": "/home/gitpod/.nuget/packages/",
-        "outputPath": "/workspace/dnc100-csharp-dotnet-exercises/obj/",
+        "projectPath": "/Users/lexiuswaltar/Documents/Projects/dnc100-csharp-dotnet-exercises/CSharpExercises.csproj",
+        "packagesPath": "/Users/lexiuswaltar/.nuget/packages/",
+        "outputPath": "/Users/lexiuswaltar/Documents/Projects/dnc100-csharp-dotnet-exercises/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gitpod/.nuget/NuGet/NuGet.Config"
+          "/Users/lexiuswaltar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
             "projectReferences": {}
           }
         },
@@ -34,7 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }
